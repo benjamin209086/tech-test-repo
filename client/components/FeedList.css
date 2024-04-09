@@ -1,0 +1,12 @@
+.feedlist-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    overflow: scroll;
+}
+
+.feedlist {
+    width: 40%;
+    min-height: 100vh;
+}
